@@ -1,5 +1,9 @@
 
+## Getting Started
 
+This project was written using python3.7. A pip requirements.txt file is
+ included to install the dependencies
+ 
 ## Mars Rover technical Challenge 
 
 
@@ -60,7 +64,7 @@ MMRMMRMRRM
 
 ```
 
-####Expected Output:
+#### Expected Output:
 ```
 1 3 N
 5 1 E
